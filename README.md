@@ -1,3 +1,3 @@
 # geofeature
 
-Demo: https://geoffrowland.github.io/geofeature/
+Demo: http://geoffrowland.github.io/geofeature/
