@@ -111,6 +111,34 @@
             }
           ]
         },
+	{
+          "url": "https://geo.nls.uk/mapdata3/os/25_inch_holes_england/{z}/{x}/{y}.png",
+          "type": "open-street-map",
+          "tms": false,
+          "fileExtension": "png",
+          "dataCustodian": "NLS",
+          "name": "Holes OS 1900",
+          "forceProxy": true,
+          "opacity": 0.5,
+          "rectangle": {
+			  "west": -6.39247979,
+			  "south": 49.87532392,
+			  "east": -1.74496421,
+			  "north": 55.78194849
+		  },
+          "isOpenInWorkbench": false,
+          "tileErrorHandlingOptions": {
+			  "treat403AsError": false,
+			  "treat404AsError": false,
+			  "ignoreUnknownTileErrors": true
+		  },
+		  "info": [
+            {
+              "name": "Licence",
+              "content": "NLS"
+            }
+          ]
+        },
         {
           "url": "https://mapseries-tilesets.s3.amazonaws.com/25_inch/somerset1",
           "type": "open-street-map",
