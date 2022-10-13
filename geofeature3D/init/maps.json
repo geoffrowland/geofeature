@@ -112,7 +112,7 @@
           ]
         },
 	{
-          "url": "https://geo.nls.uk/mapdata3/os/25_inch_holes_england/{z}/{x}/{y}.png",
+          "url": "https://geo.nls.uk/mapdata3/os/25_inch_holes_england",
           "type": "open-street-map",
           "tms": false,
           "fileExtension": "png",
